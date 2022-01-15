@@ -1,0 +1,15 @@
+C:\Users\Santi\Documents\GitHub\ctest\bin\Debug\net6.0\ctest.exe
+C:\Users\Santi\Documents\GitHub\ctest\bin\Debug\net6.0\ctest.deps.json
+C:\Users\Santi\Documents\GitHub\ctest\bin\Debug\net6.0\ctest.runtimeconfig.json
+C:\Users\Santi\Documents\GitHub\ctest\bin\Debug\net6.0\ctest.dll
+C:\Users\Santi\Documents\GitHub\ctest\bin\Debug\net6.0\ref\ctest.dll
+C:\Users\Santi\Documents\GitHub\ctest\bin\Debug\net6.0\ctest.pdb
+C:\Users\Santi\Documents\GitHub\ctest\obj\Debug\net6.0\ctest.csproj.AssemblyReference.cache
+C:\Users\Santi\Documents\GitHub\ctest\obj\Debug\net6.0\ctest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santi\Documents\GitHub\ctest\obj\Debug\net6.0\ctest.AssemblyInfoInputs.cache
+C:\Users\Santi\Documents\GitHub\ctest\obj\Debug\net6.0\ctest.AssemblyInfo.cs
+C:\Users\Santi\Documents\GitHub\ctest\obj\Debug\net6.0\ctest.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Documents\GitHub\ctest\obj\Debug\net6.0\ctest.dll
+C:\Users\Santi\Documents\GitHub\ctest\obj\Debug\net6.0\ref\ctest.dll
+C:\Users\Santi\Documents\GitHub\ctest\obj\Debug\net6.0\ctest.pdb
+C:\Users\Santi\Documents\GitHub\ctest\obj\Debug\net6.0\ctest.genruntimeconfig.cache
